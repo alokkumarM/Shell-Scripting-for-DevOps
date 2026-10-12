@@ -200,11 +200,11 @@ main() {
 
     INSTANCE_TYPE="t3.micro"
 
-    KEY_NAME="task"
+    KEY_NAME="test"
 
     SUBNET_ID="subnet-07c38aabf27a46bb6"
 
-    SECURITY_GROUP_ID="sg-07669ae0effe9272f"
+    SECURITY_GROUP_ID="sg-0186a27465d0e9400"
 
     INSTANCE_NAME="Shell-Script-EC2-Demo"
 

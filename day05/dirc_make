@@ -1,0 +1,5 @@
+create:
+	mkdir demo
+	ls -l
+cd:
+	cd demo && pwd

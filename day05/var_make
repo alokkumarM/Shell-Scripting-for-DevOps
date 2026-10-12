@@ -1,0 +1,4 @@
+app :=myapp
+
+hello:
+	echo "APPLICATION MANE IS $(app)"

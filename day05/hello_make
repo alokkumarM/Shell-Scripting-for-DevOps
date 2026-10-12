@@ -1,0 +1,2 @@
+hello:
+	echo "Hello welcome to the shell scripting with Makefile"
